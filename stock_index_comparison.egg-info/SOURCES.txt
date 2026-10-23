@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+stock_index_comparison/__init__.py
+stock_index_comparison/module01.py
+stock_index_comparison/module02.py
+stock_index_comparison.egg-info/PKG-INFO
+stock_index_comparison.egg-info/SOURCES.txt
+stock_index_comparison.egg-info/dependency_links.txt
+stock_index_comparison.egg-info/requires.txt
+stock_index_comparison.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+[build-system]
+requires =["setuptools>=61.0"]
+build-backend= "setuptools.build_meta"
+[project]
+name ="stock_index_comparison"
+version= "0.1.0"
+requires-python= ">=3.8"
+dependencies= [
+"numpy",
+"matplotlib"
+]
+[tool.setuptools.packages.find]
+where =["."]
+include=["stock_index_comparison*"]
